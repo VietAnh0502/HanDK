@@ -1,0 +1,1956 @@
+.noibat-icon {
+  	position: absolute;
+  	top: 150px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 420px;
+  	object-fit: cover;
+}
+.trangsucgiamgia-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 262.5px;
+  	height: 262.5px;
+}
+.trangsucgiamgia-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 292.5px;
+  	background-color: #d9d9d9;
+  	width: 262.5px;
+  	height: 262.5px;
+}
+.trangsucgiamgia-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 585px;
+  	background-color: #d9d9d9;
+  	width: 262.5px;
+  	height: 262.5px;
+}
+.nhn-cu-hn {
+  	position: absolute;
+  	top: 269.5px;
+  	left: 0px;
+  	font-size: 18px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 120px;
+  	height: 22px;
+}
+.nhn-ci {
+  	position: absolute;
+  	top: 269.5px;
+  	left: 292.5px;
+  	font-size: 18px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 89px;
+  	height: 22px;
+}
+.trang-sc-kim {
+  	position: absolute;
+  	top: 269.5px;
+  	left: 585px;
+  	font-size: 18px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 184px;
+  	height: 22px;
+}
+.gim-ngay-15 {
+  	position: absolute;
+  	top: 311px;
+  	left: 0px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 86px;
+  	height: 15px;
+}
+.gim-ngay-151 {
+  	position: absolute;
+  	top: 311px;
+  	left: 292.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 86px;
+  	height: 15px;
+}
+.gim-ngay-152 {
+  	position: absolute;
+  	top: 311px;
+  	left: 585px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 86px;
+  	height: 15px;
+}
+.khm-ph-ngay {
+  	position: absolute;
+  	top: 348.5px;
+  	left: 0px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 103px;
+  	height: 15px;
+}
+.khm-ph-ngay1 {
+  	position: absolute;
+  	top: 348.5px;
+  	left: 292.5px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 103px;
+  	height: 15px;
+}
+.khm-ph-ngay2 {
+  	position: absolute;
+  	top: 348.5px;
+  	left: 585px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 103px;
+  	height: 15px;
+}
+.trangsucgiamgia {
+  	position: absolute;
+  	top: 600px;
+  	left: 296.25px;
+  	width: 847.5px;
+  	height: 363.5px;
+  	font-size: 12px;
+}
+.nhancauhon-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 1440px;
+  	height: 375px;
+}
+.nhn-cu-hn1 {
+  	position: absolute;
+  	top: 109.75px;
+  	left: 236.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 208px;
+  	height: 36px;
+}
+.mt-chic-nhn {
+  	position: absolute;
+  	top: 166px;
+  	left: 236px;
+  	font-size: 15px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 274px;
+  	height: 36px;
+}
+.nhancauhon-item {
+  	position: absolute;
+  	top: 240px;
+  	left: 236.25px;
+  	border: 0.8px solid #848484;
+  	box-sizing: border-box;
+  	width: 225px;
+  	height: 75px;
+}
+.xem-thm {
+  	position: absolute;
+  	top: 268px;
+  	left: 298.25px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 101px;
+  	height: 19px;
+}
+.screenshot-2024-11-11-233819 {
+  	position: absolute;
+  	top: 52.5px;
+  	left: 648.75px;
+  	width: 202.5px;
+  	height: 262.5px;
+  	object-fit: cover;
+}
+.screenshot-2024-11-11-233844 {
+  	position: absolute;
+  	top: 0px;
+  	left: 896.25px;
+  	width: 247.5px;
+  	height: 375px;
+  	object-fit: cover;
+}
+.nhancauhon {
+  	position: absolute;
+  	top: 1020px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 375px;
+  	font-size: 30px;
+}
+.phanloai1-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.phanloai1-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 247.5px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.phanloai1-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 495px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 0px;
+  	left: 742.5px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.solitaire {
+  	position: absolute;
+  	top: 239.5px;
+  	left: 76px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 72px;
+  	height: 23px;
+}
+.halo {
+  	position: absolute;
+  	top: 239.5px;
+  	left: 339.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 41px;
+  	height: 23px;
+}
+.best-selling {
+  	position: absolute;
+  	top: 239.5px;
+  	left: 556px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 102px;
+  	height: 23px;
+}
+.new-collection {
+  	position: absolute;
+  	top: 239.5px;
+  	left: 789.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 131px;
+  	height: 23px;
+}
+.phanloai1 {
+  	position: absolute;
+  	top: 1440px;
+  	left: 236.25px;
+  	width: 967.5px;
+  	height: 262.5px;
+  	text-align: center;
+}
+.nhn-ci1 {
+  	position: absolute;
+  	top: 113.5px;
+  	left: 896.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 153px;
+  	height: 36px;
+}
+.biu-tng-ca {
+  	position: absolute;
+  	top: 167px;
+  	left: 896px;
+  	font-size: 15px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 269px;
+  	height: 36px;
+}
+.nhancuoi-item {
+  	position: absolute;
+  	top: 243.75px;
+  	left: 896.25px;
+  	border: 0.8px solid #848484;
+  	box-sizing: border-box;
+  	width: 225px;
+  	height: 75px;
+}
+.xem-thm1 {
+  	position: absolute;
+  	top: 271.75px;
+  	left: 958.25px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 101px;
+  	height: 19px;
+}
+.screenshot-2024-11-11-234937 {
+  	position: absolute;
+  	top: 53.25px;
+  	left: 543.75px;
+  	width: 202.5px;
+  	height: 262.5px;
+  	object-fit: cover;
+}
+.screenshot-2024-11-11-234924 {
+  	position: absolute;
+  	top: 0px;
+  	left: 236.25px;
+  	width: 247.5px;
+  	height: 375px;
+  	object-fit: cover;
+}
+.nhancuoi {
+  	position: absolute;
+  	top: 1755px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 375px;
+  	font-size: 30px;
+}
+.nhn-ci-hin {
+  	position: absolute;
+  	top: 239.5px;
+  	left: 28px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 168px;
+  	height: 23px;
+}
+.eternity {
+  	position: absolute;
+  	top: 239.5px;
+  	left: 325.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 69px;
+  	height: 23px;
+}
+.phanloai2 {
+  	position: absolute;
+  	top: 2175px;
+  	left: 236.25px;
+  	width: 967.5px;
+  	height: 262.5px;
+  	text-align: center;
+}
+.kc-desktop-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 967.5px;
+  	height: 450px;
+  	object-fit: cover;
+}
+.kim-cng-gia {
+  	position: absolute;
+  	top: 158px;
+  	left: 82.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 214px;
+  	height: 37px;
+}
+.kim-cng-thin {
+  	position: absolute;
+  	top: 207px;
+  	left: 82.75px;
+  	font-size: 18.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 284px;
+  	height: 46px;
+}
+.kimcuong-child {
+  	position: absolute;
+  	top: 300px;
+  	left: 82.5px;
+  	border: 0.8px solid #848484;
+  	box-sizing: border-box;
+  	width: 225px;
+  	height: 75px;
+}
+.xem-thm2 {
+  	position: absolute;
+  	top: 328px;
+  	left: 144.5px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 101px;
+  	height: 19px;
+}
+.kimcuong {
+  	position: absolute;
+  	top: 2490px;
+  	left: 236.25px;
+  	width: 967.5px;
+  	height: 450px;
+  	font-size: 30.75px;
+}
+.tkr-pc-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 967.5px;
+  	height: 412.5px;
+  	object-fit: cover;
+}
+.bn-mun-c {
+  	position: absolute;
+  	top: 108.5px;
+  	left: 82.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 302px;
+  	height: 30px;
+}
+.khm-ph-dch {
+  	position: absolute;
+  	top: 167px;
+  	left: 82.5px;
+  	font-size: 15px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 402px;
+  	height: 18px;
+}
+.khm-ph-ngay3 {
+  	position: absolute;
+  	top: 257px;
+  	left: 82.5px;
+  	font-size: 14.75px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 160px;
+  	height: 18px;
+}
+.lamnhanrieng {
+  	position: absolute;
+  	top: 2985px;
+  	left: 236.25px;
+  	width: 967.5px;
+  	height: 412.5px;
+  	font-size: 24.75px;
+}
+.khm-ph-b {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 162.25px);
+  	font-size: 26.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 325px;
+  	height: 32px;
+}
+.screenshot-2024-11-12-000845 {
+  	position: absolute;
+  	top: 46.5px;
+  	left: 0px;
+  	width: 472.5px;
+  	height: 472.5px;
+  	object-fit: cover;
+}
+.screenshot-2024-11-12-000858 {
+  	position: absolute;
+  	top: 46.5px;
+  	left: 495px;
+  	width: 472.5px;
+  	height: 472.5px;
+  	object-fit: cover;
+}
+.spark-of-heaven {
+  	position: absolute;
+  	top: 529px;
+  	left: 129.5px;
+  	font-size: 26.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 213px;
+  	height: 32px;
+}
+.shape-of-love {
+  	position: absolute;
+  	top: 529px;
+  	left: 638.5px;
+  	font-size: 26.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 184px;
+  	height: 32px;
+}
+.ly-cm-hng {
+  	position: absolute;
+  	top: 572.5px;
+  	left: 25.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 420px;
+  	height: 36px;
+}
+.thit-k-cch {
+  	position: absolute;
+  	top: 572.5px;
+  	left: 520.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 420px;
+  	height: 36px;
+}
+.khm-ph-ngay4 {
+  	position: absolute;
+  	top: 625.5px;
+  	left: 172px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 128px;
+  	height: 18px;
+}
+.khm-ph-ngay5 {
+  	position: absolute;
+  	top: 625.5px;
+  	left: 667px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 128px;
+  	height: 18px;
+}
+.khamphabstmoi {
+  	position: absolute;
+  	top: 3463.5px;
+  	left: calc(50% - 483.75px);
+  	width: 967.5px;
+  	height: 643.5px;
+  	text-align: center;
+  	font-size: 15px;
+}
+.fine-jewelry {
+  	position: absolute;
+  	top: 0px;
+  	left: 403px;
+  	font-size: 26.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 161px;
+  	height: 32px;
+}
+.th-gii-lp {
+  	position: absolute;
+  	top: 36.25px;
+  	left: 356px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 255px;
+  	height: 18px;
+}
+.phanloai3-child {
+  	position: absolute;
+  	top: 91px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 180px;
+  	height: 180px;
+}
+.phanloai3-item {
+  	position: absolute;
+  	top: 91px;
+  	left: 393.75px;
+  	background-color: #d9d9d9;
+  	width: 180px;
+  	height: 180px;
+}
+.phanloai3-inner {
+  	position: absolute;
+  	top: 91px;
+  	left: 196.5px;
+  	background-color: #d9d9d9;
+  	width: 180px;
+  	height: 180px;
+}
+.phanloai3-child1 {
+  	position: absolute;
+  	top: 91px;
+  	left: 787.5px;
+  	background-color: #d9d9d9;
+  	width: 180px;
+  	height: 180px;
+}
+.phanloai3-child2 {
+  	position: absolute;
+  	top: 91px;
+  	left: 591px;
+  	background-color: #d9d9d9;
+  	width: 180px;
+  	height: 180px;
+}
+.nhn-kim-cng {
+  	position: absolute;
+  	top: 280px;
+  	left: 32px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 116px;
+  	height: 18px;
+}
+.bng-tai {
+  	position: absolute;
+  	top: 280px;
+  	left: 257.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 59px;
+  	height: 18px;
+}
+.vng-lc {
+  	position: absolute;
+  	top: 280px;
+  	left: 431.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 104px;
+  	height: 18px;
+}
+.mt-dy {
+  	position: absolute;
+  	top: 280px;
+  	left: 652px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 58px;
+  	height: 18px;
+}
+.nhn-thi-trang {
+  	position: absolute;
+  	top: 280px;
+  	left: 822.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 111px;
+  	height: 18px;
+}
+.phanloai3 {
+  	position: absolute;
+  	top: 4161.5px;
+  	left: 236.25px;
+  	width: 967.5px;
+  	height: 298px;
+  	text-align: center;
+  	font-size: 15px;
+}
+.top20bestselling-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 1440px;
+  	height: 450px;
+}
+.screenshot-2024-11-12-002629 {
+  	position: absolute;
+  	top: 0px;
+  	left: 543.75px;
+  	width: 247.5px;
+  	height: 450px;
+  	object-fit: cover;
+}
+.screenshot-2024-11-12-002533 {
+  	position: absolute;
+  	top: 93.75px;
+  	left: 378.75px;
+  	width: 225px;
+  	height: 262.5px;
+  	object-fit: cover;
+}
+.top-20-best {
+  	position: absolute;
+  	top: 152.5px;
+  	left: 896px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 240px;
+  	height: 33px;
+}
+.thm-cht-ngt {
+  	position: absolute;
+  	top: 202.5px;
+  	left: 896px;
+  	font-size: 15px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 250px;
+  	height: 36px;
+}
+.xem-thm3 {
+  	position: absolute;
+  	top: 260.75px;
+  	left: 896.25px;
+  	font-size: 14.75px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 113px;
+  	height: 18px;
+}
+.top20bestselling {
+  	position: absolute;
+  	top: 4537.5px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 450px;
+  	font-size: 27px;
+}
+.dch-v {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 34.5px);
+  	font-size: 30px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 36px;
+}
+.giao-hng-min {
+  	position: absolute;
+  	top: 119px;
+  	left: 11px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 269px;
+  	height: 23px;
+}
+.giao-hng-nhanh {
+  	position: absolute;
+  	top: 157px;
+  	left: 0px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 291px;
+  	height: 46px;
+}
+.ch-thu {
+  	position: absolute;
+  	top: 118.75px;
+  	left: 378.25px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 226px;
+  	height: 23px;
+}
+.thu-i-nhanh {
+  	position: absolute;
+  	top: 157px;
+  	left: 341px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 302px;
+  	height: 46px;
+}
+.bo-hnh-trn {
+  	position: absolute;
+  	top: 119px;
+  	left: 741.25px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 159px;
+  	height: 23px;
+}
+.min-ph-bo {
+  	position: absolute;
+  	top: 157.25px;
+  	left: 697px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 247px;
+  	height: 46px;
+}
+.khm-ph-ngay6 {
+  	position: absolute;
+  	top: 252px;
+  	left: 66px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 160px;
+  	height: 19px;
+}
+.khm-ph-ngay7 {
+  	position: absolute;
+  	top: 252px;
+  	left: 411px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 160px;
+  	height: 19px;
+}
+.khm-ph-ngay8 {
+  	position: absolute;
+  	top: 252px;
+  	left: 741px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 160px;
+  	height: 19px;
+}
+.shipping-fast-icon {
+  	position: absolute;
+  	top: 53px;
+  	left: 121px;
+  	width: 50px;
+  	height: 50px;
+  	overflow: hidden;
+}
+.hands-icon {
+  	position: absolute;
+  	top: 53px;
+  	left: 796px;
+  	width: 50px;
+  	height: 50px;
+  	overflow: hidden;
+}
+.hand-holding-usd-icon {
+  	position: absolute;
+  	top: 53px;
+  	left: 467px;
+  	width: 50px;
+  	height: 50px;
+  	overflow: hidden;
+}
+.dichvu {
+  	position: absolute;
+  	top: 5057px;
+  	left: calc(50% - 482px);
+  	width: 944px;
+  	height: 271px;
+  	text-align: center;
+}
+.hethongcuahang-child {
+  	position: absolute;
+  	top: 348.75px;
+  	left: 541.28px;
+  	border: 0.8px solid #848484;
+  	box-sizing: border-box;
+  	width: 246px;
+  	height: 75px;
+}
+.t-lch-hn {
+  	position: absolute;
+  	top: 375.75px;
+  	left: 599.28px;
+  	font-weight: 300;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 131px;
+  	height: 21px;
+}
+.screenshot-2024-11-12-004427 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 516.7px;
+  	height: 472.5px;
+  	object-fit: cover;
+}
+.h-thng-ca {
+  	position: absolute;
+  	top: 114.5px;
+  	left: 541.28px;
+  	font-size: 27px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 248px;
+  	height: 33px;
+}
+.th-gii-trang {
+  	position: absolute;
+  	top: 177px;
+  	left: 541.75px;
+  	font-size: 18.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 393px;
+  	height: 46px;
+}
+.tm-ca-hng {
+  	position: absolute;
+  	top: 255.5px;
+  	left: 541.28px;
+  	font-size: 17.5px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	display: flex;
+  	align-items: center;
+  	width: 264px;
+  	height: 21px;
+}
+.hethongcuahang {
+  	position: absolute;
+  	top: 5400px;
+  	left: 236.25px;
+  	width: 934.8px;
+  	height: 472.5px;
+  	font-size: 17.75px;
+}
+.luachontrangsuc-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #ffeaea;
+  	width: 1440px;
+  	height: 457.5px;
+}
+.luachontrangsuc-item {
+  	position: absolute;
+  	top: 127.5px;
+  	left: 236.25px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.luachontrangsuc-inner {
+  	position: absolute;
+  	top: 127.5px;
+  	left: 483.75px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.luachontrangsuc-child1 {
+  	position: absolute;
+  	top: 127.5px;
+  	left: 731.25px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.luachontrangsuc-child2 {
+  	position: absolute;
+  	top: 127.5px;
+  	left: 978.75px;
+  	background-color: #d9d9d9;
+  	width: 225px;
+  	height: 225px;
+}
+.thanh-lch {
+  	position: absolute;
+  	top: 367px;
+  	left: 263.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 171px;
+  	height: 23px;
+}
+.tinh-tuyn-tt {
+  	position: absolute;
+  	top: 367px;
+  	left: 511.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 169px;
+  	height: 23px;
+}
+.to-tc-t {
+  	position: absolute;
+  	top: 367px;
+  	left: 765.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 157px;
+  	height: 23px;
+}
+.t-vn-11 {
+  	position: absolute;
+  	top: 367px;
+  	left: 1010.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 160px;
+  	height: 23px;
+}
+.la-chn-trang {
+  	position: absolute;
+  	top: 49px;
+  	left: 515.75px;
+  	font-size: 30px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 409px;
+  	height: 36px;
+}
+.luachontrangsuc {
+  	position: absolute;
+  	top: 5962.5px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 457.5px;
+  	text-align: center;
+}
+.screenshot-2024-11-12-005508 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0.25px;
+  	width: 472.5px;
+  	height: 562.5px;
+  	object-fit: cover;
+}
+.tintuc-child {
+  	position: absolute;
+  	top: 577.5px;
+  	left: 0.25px;
+  	background-color: #ffb8b8;
+  	width: 142.5px;
+  	height: 37.5px;
+}
+.tin-ni-bt {
+  	position: absolute;
+  	top: 586.5px;
+  	left: 16.25px;
+  	font-size: 15.75px;
+  	font-weight: 300;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 111px;
+  	height: 19px;
+}
+.spark-of-heaven1 {
+  	position: absolute;
+  	top: 655.5px;
+  	left: 0px;
+  	font-size: 20.25px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	width: 464px;
+  	height: 50px;
+}
+.b-su-tp {
+  	position: absolute;
+  	top: 746.5px;
+  	left: 0px;
+  	font-size: 18px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 464px;
+  	height: 66px;
+}
+.tin-mi-nht {
+  	position: absolute;
+  	top: 16px;
+  	left: 495.25px;
+  	font-size: 23.25px;
+  	display: flex;
+  	align-items: center;
+  	width: 158px;
+  	height: 28px;
+}
+.tintuc-item {
+  	position: absolute;
+  	top: 52.5px;
+  	left: 495.25px;
+  	background-color: #d9d9d9;
+  	width: 157.5px;
+  	height: 157.5px;
+}
+.tintuc-inner {
+  	position: absolute;
+  	top: 228.75px;
+  	left: 495.25px;
+  	background-color: #d9d9d9;
+  	width: 157.5px;
+  	height: 157.5px;
+}
+.tintuc-child1 {
+  	position: absolute;
+  	top: 405px;
+  	left: 495.25px;
+  	background-color: #d9d9d9;
+  	width: 157.5px;
+  	height: 157.5px;
+}
+.tin-1 {
+  	position: absolute;
+  	top: 87.5px;
+  	left: 675.25px;
+  	display: flex;
+  	align-items: center;
+  	width: 39px;
+  	height: 21px;
+}
+.tin-2 {
+  	position: absolute;
+  	top: 263.75px;
+  	left: 675.25px;
+  	display: flex;
+  	align-items: center;
+  	width: 41px;
+  	height: 21px;
+}
+.tin-3 {
+  	position: absolute;
+  	top: 440px;
+  	left: 675.25px;
+  	display: flex;
+  	align-items: center;
+  	width: 42px;
+  	height: 21px;
+}
+.div {
+  	position: absolute;
+  	top: 146.5px;
+  	left: 675.25px;
+  	font-size: 18.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 104px;
+  	height: 23px;
+}
+.div1 {
+  	position: absolute;
+  	top: 322.75px;
+  	left: 675.25px;
+  	font-size: 18.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 104px;
+  	height: 23px;
+}
+.div2 {
+  	position: absolute;
+  	top: 499px;
+  	left: 675.25px;
+  	font-size: 18.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 104px;
+  	height: 23px;
+}
+.tintuc {
+  	position: absolute;
+  	top: 6487.5px;
+  	left: 236px;
+  	width: 779.3px;
+  	height: 812.5px;
+  	font-size: 17.25px;
+}
+.c-th-bn {
+  	position: absolute;
+  	top: 0px;
+  	left: 59.25px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 210px;
+  	height: 32px;
+}
+.xem-thm4 {
+  	position: absolute;
+  	top: 7.5px;
+  	left: 892px;
+  	font-size: 15.5px;
+  	font-weight: 300;
+  	white-space: pre-wrap;
+  	text-align: right;
+  	display: flex;
+  	align-items: center;
+  	width: 135px;
+  	height: 19px;
+}
+.cothebansethich-child {
+  	position: absolute;
+  	top: 54.25px;
+  	left: 59.25px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 142.5px;
+}
+.cothebansethich-item {
+  	position: absolute;
+  	top: 54.25px;
+  	left: 224.25px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 142.5px;
+}
+.cothebansethich-inner {
+  	position: absolute;
+  	top: 54.25px;
+  	left: 389.25px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 142.5px;
+}
+.cothebansethich-child1 {
+  	position: absolute;
+  	top: 54.25px;
+  	left: 554.25px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 142.5px;
+}
+.cothebansethich-child2 {
+  	position: absolute;
+  	top: 54.25px;
+  	left: 719.25px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 142.5px;
+}
+.cothebansethich-child3 {
+  	position: absolute;
+  	top: 54.25px;
+  	left: 884.25px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 142.5px;
+}
+.angle-right-icon {
+  	position: absolute;
+  	top: 105.5px;
+  	left: 1045px;
+  	width: 40px;
+  	height: 40px;
+  	overflow: hidden;
+}
+.angle-left-icon {
+  	position: absolute;
+  	top: 105.5px;
+  	left: 0px;
+  	width: 40px;
+  	height: 40px;
+  	overflow: hidden;
+}
+.cothebansethich {
+  	position: absolute;
+  	top: 7389.5px;
+  	left: 177px;
+  	width: 1085px;
+  	height: 196.8px;
+  	font-size: 26.25px;
+}
+.nhantuvan-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #ffdede;
+  	width: 1440px;
+  	height: 532.5px;
+}
+.nhn-t-vn {
+  	position: absolute;
+  	top: 37.75px;
+  	left: 563.75px;
+  	font-size: 30px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 313px;
+  	height: 36px;
+}
+.ng-k-ngay {
+  	position: absolute;
+  	top: 100.75px;
+  	left: 457.5px;
+  	font-size: 18.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 524px;
+  	height: 23px;
+}
+.nhantuvan-item {
+  	position: absolute;
+  	top: 423.75px;
+  	left: 566.25px;
+  	background-color: #9f5151;
+  	width: 307.5px;
+  	height: 67.5px;
+}
+.t-vn-ngay {
+  	position: absolute;
+  	top: 440.75px;
+  	left: 628.25px;
+  	font-size: 26.25px;
+  	font-weight: 300;
+  	color: #fff;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 183px;
+  	height: 32px;
+}
+.nhantuvan-inner {
+  	position: absolute;
+  	top: 183.75px;
+  	left: 401.25px;
+  	border: 0.8px solid #000;
+  	box-sizing: border-box;
+  	width: 637.5px;
+  	height: 75px;
+}
+.nhantuvan-child1 {
+  	position: absolute;
+  	top: 300px;
+  	left: 401.25px;
+  	border: 0.8px solid #000;
+  	box-sizing: border-box;
+  	width: 307.5px;
+  	height: 75px;
+}
+.nhantuvan-child2 {
+  	position: absolute;
+  	top: 300px;
+  	left: 731.25px;
+  	border: 0.8px solid #000;
+  	box-sizing: border-box;
+  	width: 307.5px;
+  	height: 75px;
+}
+.h-v-tn {
+  	position: absolute;
+  	top: 210.75px;
+  	left: 420px;
+  	font-weight: 300;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 135px;
+  	height: 22px;
+}
+.s-in-thoi {
+  	position: absolute;
+  	top: 326.75px;
+  	left: 420px;
+  	font-weight: 300;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 185px;
+  	height: 22px;
+}
+.chn-tnh-thnh {
+  	position: absolute;
+  	top: 326.75px;
+  	left: 751px;
+  	font-weight: 300;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 224px;
+  	height: 22px;
+}
+.hands-helping-icon {
+  	position: absolute;
+  	top: 123.75px;
+  	left: 695px;
+  	width: 50px;
+  	height: 50px;
+  	overflow: hidden;
+}
+.nhantuvan {
+  	position: absolute;
+  	top: 7691.25px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 532.5px;
+  	text-align: center;
+  	font-size: 18px;
+}
+.logo {
+  	position: absolute;
+  	top: 94.5px;
+  	left: 75.75px;
+  	font-size: 30px;
+  	font-weight: 300;
+  	text-align: center;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 73px;
+  	height: 36px;
+}
+.sn-phm {
+  	position: absolute;
+  	top: 5px;
+  	left: 270px;
+  	font-size: 22.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 121px;
+  	height: 27px;
+}
+.v-chng-ti {
+  	position: absolute;
+  	top: 5px;
+  	left: 765px;
+  	font-size: 22.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 163px;
+  	height: 27px;
+}
+.lin-h {
+  	position: absolute;
+  	top: 5px;
+  	left: 435px;
+  	font-size: 22.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 86px;
+  	height: 27px;
+}
+.h-tr {
+  	position: absolute;
+  	top: 5px;
+  	left: 600px;
+  	font-size: 22.5px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 88px;
+  	height: 27px;
+}
+.nhn-ci2 {
+  	position: absolute;
+  	top: 64.25px;
+  	left: 270px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 80px;
+  	height: 20px;
+}
+.cu-chuyn-handk {
+  	position: absolute;
+  	top: 64.25px;
+  	left: 765px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 150px;
+  	height: 20px;
+}
+.h-thng-ca1 {
+  	position: absolute;
+  	top: 109.25px;
+  	left: 765px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 149px;
+  	height: 20px;
+}
+.tuyn-dng {
+  	position: absolute;
+  	top: 154.25px;
+  	left: 765px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 92px;
+  	height: 20px;
+}
+.chnh-sch-mua {
+  	position: absolute;
+  	top: 64.5px;
+  	left: 599.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 125px;
+  	height: 40px;
+}
+.phng-thc-thanh {
+  	position: absolute;
+  	top: 109.5px;
+  	left: 599.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 110px;
+  	height: 40px;
+}
+.bo-mt-thng {
+  	position: absolute;
+  	top: 154.25px;
+  	left: 600px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 139px;
+  	height: 20px;
+}
+.gi-mua-hng {
+  	position: absolute;
+  	top: 65.25px;
+  	left: 435px;
+  	font-size: 15.75px;
+  	font-weight: 200;
+  	display: flex;
+  	align-items: center;
+  	width: 120px;
+  	height: 19px;
+}
+.gp-khiu {
+  	position: absolute;
+  	top: 245.25px;
+  	left: 435px;
+  	font-size: 15.75px;
+  	font-weight: 200;
+  	display: flex;
+  	align-items: center;
+  	width: 132px;
+  	height: 19px;
+}
+.nhn-cu-hn2 {
+  	position: absolute;
+  	top: 109.25px;
+  	left: 270px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 108px;
+  	height: 20px;
+}
+.nhn-cu-hn3 {
+  	position: absolute;
+  	top: 109.25px;
+  	left: 435px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 108px;
+  	height: 20px;
+}
+.nhn-cu-hn4 {
+  	position: absolute;
+  	top: 154.25px;
+  	left: 435px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 108px;
+  	height: 20px;
+}
+.nhn-cu-hn5 {
+  	position: absolute;
+  	top: 199.25px;
+  	left: 435px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 108px;
+  	height: 20px;
+}
+.tng-i {
+  	position: absolute;
+  	top: 289.5px;
+  	left: 434.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 67px;
+  	height: 20px;
+}
+.mail {
+  	position: absolute;
+  	top: 334.5px;
+  	left: 434.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 32px;
+  	height: 20px;
+}
+.nhn-kim-cng1 {
+  	position: absolute;
+  	top: 154.25px;
+  	left: 270px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 127px;
+  	height: 20px;
+}
+.nhn-nam {
+  	position: absolute;
+  	top: 199.25px;
+  	left: 270px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 80px;
+  	height: 20px;
+}
+.bng-tai1 {
+  	position: absolute;
+  	top: 244.25px;
+  	left: 270px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	width: 68px;
+  	height: 20px;
+}
+.footer {
+  	position: absolute;
+  	top: 8272.5px;
+  	left: 236.25px;
+  	width: 928px;
+  	height: 354.5px;
+  	font-size: 16.5px;
+}
+.header-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #ddd;
+  	width: 1440px;
+  	height: 75px;
+}
+.header-item {
+  	position: absolute;
+  	top: 75px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 75px;
+}
+.header-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 648.75px;
+  	background-color: #d9d9d9;
+  	width: 142.5px;
+  	height: 75px;
+}
+.header-child1 {
+  	position: absolute;
+  	top: 98px;
+  	left: 1044px;
+  	border-radius: 30px;
+  	background-color: #eee;
+  	width: 160px;
+  	height: 30px;
+}
+.nhn-cu-hn6 {
+  	position: absolute;
+  	top: 105px;
+  	left: 242.25px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 79px;
+  	height: 15px;
+}
+.nhn-ci3 {
+  	position: absolute;
+  	top: 105px;
+  	left: 341.75px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 58px;
+  	height: 15px;
+}
+.trang-sc {
+  	position: absolute;
+  	top: 105px;
+  	left: 425.25px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 57px;
+  	height: 15px;
+}
+.kim-cng {
+  	position: absolute;
+  	top: 105px;
+  	left: 504.75px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 63px;
+  	height: 15px;
+}
+.mens {
+  	position: absolute;
+  	top: 105px;
+  	left: 602.25px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 33px;
+  	height: 15px;
+}
+.khuyn-mi {
+  	position: absolute;
+  	top: 105px;
+  	left: 667.75px;
+  	color: #ff0000;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 66px;
+  	height: 15px;
+}
+.tin-tc {
+  	position: absolute;
+  	top: 105px;
+  	left: 763.25px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 40px;
+  	height: 15px;
+}
+.tm-kim {
+  	position: absolute;
+  	top: 105px;
+  	left: 1062px;
+  	display: flex;
+  	font-weight: 300;
+  	color: #727272;
+  	align-items: center;
+  	justify-content: center;
+  	width: 62px;
+  	height: 15px;
+}
+.logo1 {
+  	position: absolute;
+  	top: 30px;
+  	left: 705.75px;
+  	font-weight: 300;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 29px;
+  	height: 15px;
+}
+.search-location-icon {
+  	position: absolute;
+  	top: 25px;
+  	left: 242px;
+  	width: 25px;
+  	height: 25px;
+  	overflow: hidden;
+}
+.facebook-icon {
+  	position: absolute;
+  	top: 25px;
+  	left: 296px;
+  	width: 25px;
+  	height: 25px;
+  	overflow: hidden;
+}
+.phone-volume-icon {
+  	position: absolute;
+  	top: 25px;
+  	left: 350px;
+  	width: 25px;
+  	height: 25px;
+  	overflow: hidden;
+}
+.div3 {
+  	position: absolute;
+  	top: 30px;
+  	left: 385px;
+  	font-size: 13px;
+  	font-weight: 300;
+  	text-align: left;
+  	display: flex;
+  	align-items: center;
+  	width: 79px;
+  	height: 16px;
+}
+.user-icon {
+  	position: absolute;
+  	top: 25px;
+  	left: 1179px;
+  	width: 25px;
+  	height: 25px;
+  	overflow: hidden;
+}
+.search-icon {
+  	position: absolute;
+  	top: 105px;
+  	left: 1178px;
+  	width: 15px;
+  	height: 15px;
+  	overflow: hidden;
+}
+.shopping-cart-icon {
+  	position: absolute;
+  	top: 25px;
+  	left: 1119px;
+  	width: 25px;
+  	height: 25px;
+  	overflow: hidden;
+}
+.header {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 150px;
+  	text-align: center;
+  	font-size: 12px;
+}
+.home {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 8700px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 18.75px;
+  	color: #000;
+  	font-family: Inter;
+}
+
